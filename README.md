@@ -88,7 +88,8 @@ This project demonstrates how **Power BI** can be used to transform customer dat
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
+
 LOCHANA SRI J
 
 Data Science & Analytics Intern | Future Interns
